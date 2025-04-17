@@ -1,6 +1,8 @@
 /*
  * SwiftDemangleScript.java
  *
+ * @author http80
+ * @category Swift
  * A Ghidra Java Script for ultra-fast Swift symbol demangling with caching
  * Minimizes console overhead and avoids duplicate demangle calls
  * Place in your Ghidra scripts directory (e.g. ~/ghidra_scripts)
